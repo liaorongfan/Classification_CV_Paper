@@ -1,2 +1,2 @@
 # Classification-CV
-A general guide on classification model in CV
+A general guide on classification models in CV
